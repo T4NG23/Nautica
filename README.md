@@ -1,5 +1,4 @@
-Team Nautica's Project for the Google-Sponsored Lehigh Spring 2025 Hack for Justice
--Winner and nominated “Most Likely to Be Venture Capital Funded”
+Team Nautica's Project for the Google-Sponsored Lehigh Spring 2025 Hack for Justice, Winner and nominated “Most Likely to Be Venture Capital Funded”
 
 https://kevinzhu223.github.io/Nautica/ - Server closed
 
